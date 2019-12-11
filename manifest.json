@@ -11,12 +11,17 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Einpacken",
-  "version": "v0.1-alpha",
+  "version": "v0.2-alpha",
   "author": "tivoru",
   "files": [
     {
       "projectID": 239197,
       "fileID": 2838090,
+      "required": true
+    },
+    {
+      "projectID": 253211,
+      "fileID": 2684561,
       "required": true
     },
     {
@@ -30,8 +35,18 @@
       "required": true
     },
     {
+      "projectID": 220954,
+      "fileID": 2693544,
+      "required": true
+    },
+    {
       "projectID": 238222,
       "fileID": 2803400,
+      "required": true
+    },
+    {
+      "projectID": 69118,
+      "fileID": 2664449,
       "required": true
     }
   ],
