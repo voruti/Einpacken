@@ -47,7 +47,10 @@ Therefore, it is intended for **multiplayer**. In addition, "Einpacken" **only h
 Summary of the most important mods: [suggested by]
 
 Tech:
-- TODO
+- Simply Jetpacks 2 [tivoru]
+- Applied Energistics 2 [tivoru]
+- Extreme Reactors [tivoru]
+- Draconic Evolution [tivoru]
 
 Magic:
 - TODO
@@ -55,6 +58,8 @@ Magic:
 Utility:
 - Just Enough Items (JEI) [tivoru]
 - JourneyMap [tivoru]
+- Ender Storage [tivoru]
+- Extra Utilities [tivoru]
 
 Exploration:
 - TODO
