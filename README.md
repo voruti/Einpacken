@@ -19,7 +19,10 @@ Dieses auf den **Mehrspielermodus** ausgelegte Modpack enthält **nur eine handv
 Die wichtigsten Mods sind in der Übersicht: [vorgeschlagen von]
 
 Technik:
-- TODO
+- Simply Jetpacks 2 [tivoru]
+- Applied Energistics 2 [tivoru]
+- Extreme Reactors [tivoru]
+- Draconic Evolution [tivoru]
 
 Magie:
 - TODO
@@ -27,6 +30,8 @@ Magie:
 Utility:
 - Just Enough Items (JEI) [tivoru]
 - JourneyMap [tivoru]
+- Ender Storage [tivoru]
+- Extra Utilities [tivoru]
 
 Erkundung:
 - TODO
