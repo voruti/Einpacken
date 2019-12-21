@@ -30,7 +30,8 @@ Technik:
 
 Magie:
 
-- TODO
+- Ice and Fire
+- Astral Sorcery
 
 Utility:
 
@@ -41,7 +42,11 @@ Utility:
 
 Erkundung:
 
-- TODO
+- Biomes O' Plenty
+
+Andere:
+
+- Kingdom Keys
 
 
 ---
@@ -65,7 +70,8 @@ Tech:
 
 Magic:
 
-- TODO
+- Ice and Fire
+- Astral Sorcery
 
 Utility:
 
@@ -76,4 +82,8 @@ Utility:
 
 Exploration:
 
-- TODO
+- Biomes O' Plenty
+
+Other:
+
+- Kingdom Keys
