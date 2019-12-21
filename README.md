@@ -23,6 +23,8 @@ Technik:
 - Applied Energistics 2 [tivoru]
 - Extreme Reactors [tivoru]
 - Draconic Evolution [tivoru]
+- Mekanism [tivoru]
+- Ender IO [tivoru]
 
 Magie:
 - TODO
