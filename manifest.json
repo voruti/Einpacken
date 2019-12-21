@@ -16,175 +16,146 @@
   "files": [
     {
       "projectID": 254268,
-      "_name": "Torchmaster (by xalcon)"
       "fileID": 2829232,
       "required": true
     },
     {
       "projectID": 278993,
-      "_name": "Bonsai Trees (by davenonymous)"
       "fileID": 2719654,
       "required": true
     },
     {
       "projectID": 251792,
-      "_name": "Simply Jetpacks 2 (by Tomson124)",
       "fileID": 2789696,
       "required": true
     },
     {
       "projectID": 239197,
-      "_name": "CraftTweaker (by Jaredlll08)",
       "fileID": 2838090,
       "required": true
     },
     {
       "projectID": 242818,
-      "_name": "CodeChicken Lib 1.8.+ (by covers1624)",
       "fileID": 2779848,
       "required": true
     },
     {
       "projectID": 223794,
-      "_name": "Applied Energistics 2 (by AlgorithmX2)",
       "fileID": 2747063,
       "required": true
     },
     {
       "projectID": 253211,
-      "_name": "MTLib (by Jaredlll08)",
       "fileID": 2684561,
       "required": true
     },
     {
       "projectID": 227083,
-      "_name": "Baubles (by Azanor13)",
       "fileID": 2518667,
       "required": true
     },
     {
       "projectID": 245174,
-      "_name": "Ender Storage 1.8.+ (by covers1624)",
       "fileID": 2755787,
       "required": true
     },
     {
       "projectID": 247921,
-      "_name": "ZeroCore (by ZeroNoRyouki)",
       "fileID": 2670570,
       "required": true
     },
     {
       "projectID": 268560,
-      "_name": "Mekanism (by bradyaidanc)",
       "fileID": 2835175,
       "required": true
     },
     {
       "projectID": 230976,
-      "_name": "Fast Leaf Decay (by olafskiii)",
       "fileID": 2463272,
       "required": true
     },
     {
       "projectID": 231382,
-      "_name": "Brandon's Core (by brandon3055)",
       "fileID": 2744222,
       "required": true
     },
     {
       "projectID": 250277,
-      "_name": "Extreme Reactors (by ZeroNoRyouki)",
       "fileID": 2722271,
       "required": true
     },
     {
       "projectID": 240630,
-      "_name": "Just Enough Resources (JER) (by way2muchnoise)",
       "fileID": 2728585,
       "required": true
     },
     {
       "projectID": 238222,
-      "_name": "Just Enough Items (JEI) (by mezz)",
       "fileID": 2803400,
       "required": true
     },
     {
       "projectID": 225561,
-      "_name": "Extra Utilities (by RWTema)",
       "fileID": 2678374,
       "required": true
     },
     {
       "projectID": 69118,
-      "_name": "Morpheus (by Quetzi)",
       "fileID": 2664449,
       "required": true
     },
     {
       "projectID": 270789,
-      "_name": "Redstone Flux (by TeamCoFH)",
       "fileID": 2623090,
       "required": true
     },
     {
       "projectID": 232131,
-      "_name": "Default Options (by BlayTheNinth)",
       "fileID": 2624732,
       "required": true
     },
     {
       "projectID": 32274,
-      "_name": "JourneyMap (by techbrew)",
       "fileID": 2755458,
       "required": true
     },
     {
       "projectID": 231868,
-      "_name": "EnderCore (by tterrag1098)",
       "fileID": 2822401,
       "required": true
     },
     {
       "projectID": 237701,
-      "_name": "ReAuth (by TechnicianLP)",
       "fileID": 2560638,
       "required": true
     },
     {
       "projectID": 223565,
-      "_name": "Draconic Evolution (by brandon3055)",
       "fileID": 2753317,
       "required": true
     },
     {
       "projectID": 253449,
-      "_name": "Hwyla (by TehNut)",
       "fileID": 2568751,
       "required": true
     },
     {
       "projectID": 220954,
-      "_name": "ModTweaker (by Jaredlll08)",
       "fileID": 2693544,
       "required": true
     },
     {
       "projectID": 64578,
-      "_name": "Ender IO (by CrazyPants_MC)",
       "fileID": 2809869,
       "required": true
     },
     {
       "projectID": 285612,
-      "_name": "RandomPatches (by TheRandomLabs)",
       "fileID": 2803621,
       "required": true
     },
     {
       "projectID": 229876,
-      "_name": "BetterFps (by Guichaguri)",
       "fileID": 2483393,
       "required": true
     }
