@@ -30,23 +30,23 @@ Technik:
 
 Magie:
 
-- Ice and Fire
-- Astral Sorcery
+- Ice and Fire [SkyRider]
+- Astral Sorcery [SkyRider]
 
 Utility:
 
-- Just Enough Items (JEI) [tivoru]
+- Just Enough Items (JEI) [tivoru, SkyRider]
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
 
 Erkundung:
 
-- Biomes O' Plenty
+- Biomes O' Plenty [SkyRider]
 
 Andere:
 
-- Kingdom Keys
+- Kingdom Keys [SkyRider]
 
 
 ---
@@ -70,20 +70,20 @@ Tech:
 
 Magic:
 
-- Ice and Fire
-- Astral Sorcery
+- Ice and Fire [SkyRider]
+- Astral Sorcery [SkyRider]
 
 Utility:
 
-- Just Enough Items (JEI) [tivoru]
+- Just Enough Items (JEI) [tivoru, SkyRider]
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
 
 Exploration:
 
-- Biomes O' Plenty
+- Biomes O' Plenty [SkyRider]
 
 Other:
 
-- Kingdom Keys
+- Kingdom Keys [SkyRider]
