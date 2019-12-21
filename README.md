@@ -47,6 +47,7 @@ Erkundung:
 Andere:
 
 - Kingdom Keys [SkyRider]
+- BiblioCraft [SkyRider]
 
 
 ---
@@ -87,3 +88,4 @@ Exploration:
 Other:
 
 - Kingdom Keys [SkyRider]
+- BiblioCraft [SkyRider]
