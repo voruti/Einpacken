@@ -48,6 +48,7 @@ Andere:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
+- Chickens, More Chickens, Hatchery [TuellePlay]
 
 
 ---
@@ -89,3 +90,4 @@ Other:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
+- Chickens, More Chickens, Hatchery [TuellePlay]
