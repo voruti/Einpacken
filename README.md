@@ -33,6 +33,7 @@ Magie:
 - Astral Sorcery [SkyRider]
 - Blood Magic [TuellePlay]
 - Psi [SkyRider]
+- Ice and Fire [SkyRider]
 
 Utility:
 
@@ -78,6 +79,7 @@ Magic:
 - Astral Sorcery [SkyRider]
 - Blood Magic [TuellePlay]
 - Psi [SkyRider]
+- Ice and Fire [SkyRider]
 
 Utility:
 
