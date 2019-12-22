@@ -25,13 +25,13 @@ Technik:
 - Applied Energistics 2 [tivoru]
 - Extreme Reactors [tivoru]
 - Draconic Evolution [tivoru]
-- Mekanism [tivoru]
 - Ender IO [tivoru]
 
 Magie:
 
 - Ice and Fire [SkyRider]
 - Astral Sorcery [SkyRider]
+- Blood Magic [TuellePlay]
 
 Utility:
 
@@ -66,13 +66,13 @@ Tech:
 - Applied Energistics 2 [tivoru]
 - Extreme Reactors [tivoru]
 - Draconic Evolution [tivoru]
-- Mekanism [tivoru]
 - Ender IO [tivoru]
 
 Magic:
 
 - Ice and Fire [SkyRider]
 - Astral Sorcery [SkyRider]
+- Blood Magic [TuellePlay]
 
 Utility:
 
