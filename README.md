@@ -48,8 +48,8 @@ Andere:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
-- ChineseWorkshop [TuellePlay]
-- Chisel [TuellePlay]
+- ChineseWorkshop [SkyRider]
+- Chisel [SkyRider]
 - Chickens, More Chickens, Hatchery [TuellePlay]
 
 
@@ -92,6 +92,6 @@ Other:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
-- ChineseWorkshop [TuellePlay]
-- Chisel [TuellePlay]
+- ChineseWorkshop [SkyRider]
+- Chisel [SkyRider]
 - Chickens, More Chickens, Hatchery [TuellePlay]
