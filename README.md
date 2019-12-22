@@ -39,7 +39,6 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
-- Chisel [TuellePlay]
 
 Erkundung:
 
@@ -49,6 +48,8 @@ Andere:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
+- ChineseWorkshop [TuellePlay]
+- Chisel [TuellePlay]
 - Chickens, More Chickens, Hatchery [TuellePlay]
 
 
@@ -82,7 +83,6 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
-- Chisel [TuellePlay]
 
 Exploration:
 
@@ -92,4 +92,6 @@ Other:
 
 - Kingdom Keys [SkyRider]
 - BiblioCraft [SkyRider]
+- ChineseWorkshop [TuellePlay]
+- Chisel [TuellePlay]
 - Chickens, More Chickens, Hatchery [TuellePlay]
