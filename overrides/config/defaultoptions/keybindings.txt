@@ -19,7 +19,7 @@ key_key.smoothCamera:0:NONE
 key_key.fullscreen:87:NONE
 key_key.spectatorOutlines:0:NONE
 key_key.swapHands:33:NONE
-key_key.saveToolbarActivator:46:NONE
+key_key.saveToolbarActivator:0:NONE
 key_key.loadToolbarActivator:0:NONE
 key_key.advancements:38:NONE
 key_key.hotbar.1:2:NONE

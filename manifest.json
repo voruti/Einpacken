@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Einpacken",
-  "version": "v0.4.3",
+  "version": "v0.4.3.1",
   "author": "tivoru",
   "files": [
     {
@@ -272,6 +272,11 @@
     {
       "projectID": 243298,
       "fileID": 2704186,
+      "required": true
+    },
+    {
+      "projectID": 254317,
+      "fileID": 2812391,
       "required": true
     }
   ],
