@@ -29,7 +29,6 @@ Technik:
 
 Magie:
 
-- Ice and Fire [SkyRider]
 - Astral Sorcery [SkyRider]
 - Blood Magic [TuellePlay]
 - Psi [SkyRider]
@@ -75,7 +74,6 @@ Tech:
 
 Magic:
 
-- Ice and Fire [SkyRider]
 - Astral Sorcery [SkyRider]
 - Blood Magic [TuellePlay]
 - Psi [SkyRider]
