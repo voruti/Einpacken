@@ -160,7 +160,7 @@
   },
   "morechickens:draconiumawakenedchicken": {
     "Name": "draconiumAwakenedChicken",
-    "Is Enabled": true,
+    "Is Enabled": false,
     "Lay Coefficient": 1.0,
     "Lay Item": "draconicevolution:nugget:1",
     "Drop Item": "draconicevolution:nugget:1",
