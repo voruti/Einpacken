@@ -40,7 +40,6 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
-- Chisels & Bits [TuellePlay]
 
 Erkundung:
 
@@ -52,6 +51,7 @@ Andere:
 - BiblioCraft [SkyRider]
 - ChineseWorkshop [SkyRider]
 - Chisel [SkyRider]
+- Chisels & Bits [TuellePlay]
 - Chickens, More Chickens, Hatchery, Roost [TuellePlay]
 
 
@@ -86,7 +86,6 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
-- Chisels & Bits [TuellePlay]
 
 Exploration:
 
@@ -98,4 +97,5 @@ Other:
 - BiblioCraft [SkyRider]
 - ChineseWorkshop [SkyRider]
 - Chisel [SkyRider]
+- Chisels & Bits [TuellePlay]
 - Chickens, More Chickens, Hatchery, Roost [TuellePlay]
