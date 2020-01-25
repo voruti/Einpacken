@@ -40,6 +40,7 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
+- Chisels & Bits [TuellePlay]
 
 Erkundung:
 
@@ -85,6 +86,7 @@ Utility:
 - JourneyMap [tivoru]
 - Ender Storage [tivoru]
 - Extra Utilities [tivoru]
+- Chisels & Bits [TuellePlay]
 
 Exploration:
 
