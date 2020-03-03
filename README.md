@@ -53,6 +53,7 @@ Andere:
 - Chisel [SkyRider]
 - Chisels & Bits [TuellePlay]
 - Chickens, More Chickens, Hatchery, Roost [TuellePlay]
+- Wings [Kentilo]
 
 
 ---
@@ -99,3 +100,4 @@ Other:
 - Chisel [SkyRider]
 - Chisels & Bits [TuellePlay]
 - Chickens, More Chickens, Hatchery, Roost [TuellePlay]
+- Wings [Kentilo]
